@@ -59,8 +59,6 @@ Python · pandas · scikit-learn · matplotlib · joblib
 
 ## How to Run
 
-`pip install -r requirements.txt`
-
 `jupyter notebook HousePricesProject.ipynb`
 
 ## Author: 
